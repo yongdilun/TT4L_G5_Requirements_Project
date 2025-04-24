@@ -6,9 +6,9 @@ This file documents the major changes made to the project repository to demonstr
 
 | Commit ID | Date       | Author       | Description |
 |-----------|------------|--------------|-------------|
-| xxxxxxx    | 2025-4-24 | Yong Di Lun     | Project: Initial commit |
-| xxxxxxx   | 2025-4-24 | Yong Di Lun      | Project: Added initial project structure and files |
-| xxxxxxx   | 2025-4-24 | Yong Di Lun | SRS: Added template for SRS    |
+| fbb52d3   | 2025-4-24 | Yong Di Lun     | Project: Initial commit |
+| 3876589   | 2025-4-24 | Yong Di Lun      | Project: Added initial project structure and files |
+| 18a9079   | 2025-4-24 | Yong Di Lun | SRS: Added template for SRS    |
 
 
 
@@ -22,7 +22,7 @@ This file documents the major changes made to the project repository to demonstr
 
 | Version | Date       | Author      | Description                | Commit ID |
 |---------|------------|-------------|---------------------------|-----------|
-| 1.0     | 2025-4-24 | Yong Di Lun | Added template for SRS    | xxxxxxx   |
+| 1.0     | 2025-4-24 | Yong Di Lun | Added template for SRS    | 18a9079   |
 
 
 ---
