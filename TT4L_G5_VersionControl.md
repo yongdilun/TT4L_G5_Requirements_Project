@@ -6,8 +6,9 @@ This file documents the major changes made to the project repository to demonstr
 
 | Commit ID | Date       | Author       | Description |
 |-----------|------------|--------------|-------------|
-| xxxxxxx    | 2025-4-24 | Yong Di Lun     | Initial commit |
-| xxxxxxx   | 2025-4-24 | Yong Di Lun      | Added initial project structure and files |
+| xxxxxxx    | 2025-4-24 | Yong Di Lun     | Project: Initial commit |
+| xxxxxxx   | 2025-4-24 | Yong Di Lun      | Project: Added initial project structure and files |
+| xxxxxxx   | 2025-4-24 | Yong Di Lun | SRS: Added template for SRS    |
 
 
 
@@ -17,11 +18,11 @@ This file documents the major changes made to the project repository to demonstr
 
 
 
-### 📄 TT4L_G5_SRS_v1.1.docx
+### 📄 TT4L_G5_SRS_v1.0.docx
 
-| Version | Date       | Author | Description                          |
-|---------|------------|--------|--------------------------------------|
-
+| Version | Date       | Author      | Description                | Commit ID |
+|---------|------------|-------------|---------------------------|-----------|
+| 1.0     | 2025-4-24 | Yong Di Lun | Added template for SRS    | xxxxxxx   |
 
 
 ---
