@@ -11,6 +11,7 @@ This file documents the major changes made to the project repository to demonstr
 | 18a9079   | 2025-4-24 | Yong Di Lun | SRS: Added template for SRS    |
 | xxxxxxx   | 2025-05-12 | Angel Phoon An Gee, Yong Di Lun | SRS: Added sections 1.0 to 1.3 |
 | xxxxxxx   | 2025-05-12 | Yong Di Lun | SRS: Added sections 3.0 to 3.1 |
+| xxxxxxx   | 2025-05-12 | Angel Phoon An Gee, Yong Di Lun | SRS: Added section 3.4 |
 
 
 
@@ -20,13 +21,14 @@ This file documents the major changes made to the project repository to demonstr
 
 
 
-### 📄 TT4L_G5_SRS_v3.0.docx
+### 📄 TT4L_G5_SRS_v4.0.docx
 
 | Version | Date       | Author(s)      | Description                | Commit ID |
 |---------|------------|-------------|---------------------------|-----------|
 | 1.0     | 2025-04-18 | Yong Di Lun | Added template for SRS    | 18a9079   |
 | 2.0     | 2025-05-12 | Angel Phoon An Gee, Yong Di Lun | Sections 1.0 to 1.3 written by Angel, checked and edited by Yong Di Lun | xxxxxxx   |
 | 3.0     | 2025-05-12 | Yong Di Lun | Sections 3.0 to 3.1 written by Yong Di Lun | xxxxxxx   |
+| 4.0     | 2025-05-12 | Angel Phoon An Gee, Yong Di Lun | Sections 3.4 written by Angel, checked and edited by Yong Di Lun | xxxxxxx   |
 
 
 ---
