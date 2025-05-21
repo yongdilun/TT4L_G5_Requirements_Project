@@ -14,6 +14,7 @@ This file documents the major changes made to the project repository to demonstr
 | xxxxxxx   | 2025-05-12 | Angel Phoon An Gee, Yong Di Lun | SRS: Added section 3.4 |
 | xxxxxxx   | 2025-05-21 | Yong Di Lun | Project: Removed SRS version documentation |
 | xxxxxxx   | 2025-05-21 | Yong Di Lun | Project: Uploaded all files |
+| xxxxxxx   | 2025-05-21 | Yong Di Lun | Project: Updated README file |
 
 
 
